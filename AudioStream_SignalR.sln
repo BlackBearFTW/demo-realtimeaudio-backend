@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioStream_SignalR", "AudioStream_SignalR\AudioStream_SignalR.csproj", "{115BA38D-FED9-43FF-B050-65C53E3A02CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115BA38D-FED9-43FF-B050-65C53E3A02CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{115BA38D-FED9-43FF-B050-65C53E3A02CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{115BA38D-FED9-43FF-B050-65C53E3A02CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{115BA38D-FED9-43FF-B050-65C53E3A02CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB1790B5-2D19-4B45-AC54-88F638DF9572}
+	EndGlobalSection
+EndGlobal
